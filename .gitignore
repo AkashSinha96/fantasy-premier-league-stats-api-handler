@@ -1268,3 +1268,13 @@ node_modules/verror/LICENSE
 node_modules/verror/package.json
 node_modules/verror/README.md
 node_modules/verror/lib/verror.js
+node_modules/dotenv/CHANGELOG.md
+node_modules/dotenv/config.d.ts
+node_modules/dotenv/config.js
+node_modules/dotenv/LICENSE
+node_modules/dotenv/package.json
+node_modules/dotenv/README.md
+node_modules/dotenv/lib/cli-options.js
+node_modules/dotenv/lib/env-options.js
+node_modules/dotenv/lib/main.d.ts
+node_modules/dotenv/lib/main.js
